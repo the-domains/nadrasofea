@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-24T21:34:05.418Z'
+datePublished: '2016-08-24T21:34:50.812Z'
 sourcePath: _posts/2016-04-16-super-stylli-our-pick-of-the-finest-and-most-stylish-smar.md
 isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/the-best-and-most-stylish-computer-pens'
 author: []
 via: {}
-dateModified: '2016-08-24T21:34:04.619Z'
+dateModified: '2016-08-24T21:34:49.826Z'
 title: Family Where Life Begins
 id: 3efec051-d463-4d68-b931-ff242188f361
 publisher: {}
