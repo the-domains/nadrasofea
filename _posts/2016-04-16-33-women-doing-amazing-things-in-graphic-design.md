@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-24T21:13:15.489Z'
+datePublished: '2016-08-24T21:14:08.532Z'
 sourcePath: _posts/2016-04-16-33-women-doing-amazing-things-in-graphic-design.md
 isBasedOnUrl: 'https://designschool.canva.com/blog/women-graphic-designers/'
 author: []
 via: {}
-dateModified: '2016-08-24T21:13:14.729Z'
+dateModified: '2016-08-24T21:14:07.600Z'
 title: ''
 id: c0b85ff9-53de-4aa7-b1d8-5ced1bb807c9
 publisher: {}
