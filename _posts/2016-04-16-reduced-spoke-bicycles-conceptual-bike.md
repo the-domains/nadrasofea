@@ -1,40 +1,21 @@
 ---
-datePublished: '2016-08-24T20:50:19.739Z'
+datePublished: '2016-08-24T21:02:39.382Z'
+isBasedOnUrl: 'http://www.trendhunter.com/trends/conceptual-bike'
+author: []
+via: {}
+dateModified: '2016-08-24T21:02:38.668Z'
+title: ''
+id: fe673a09-f755-4d97-ae33-ace755b5d8d5
+publisher: {}
+description: All the star in the universe danced on the day you were born
+starred: false
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
-isBasedOnUrl: 'http://www.trendhunter.com/trends/conceptual-bike'
 hasPage: false
-keywords:
-  - bikes
-  - conceptual
-  - baik
-  - trend
-  - neon
-  - aesthetic
-  - design
-  - bicycles
-  - wheels
-  - opts
-related: []
-author: []
-dateModified: '2016-08-24T20:50:18.791Z'
-title: 'Reduced Spoke Bicycles : Conceptual Bike'
-app_links: []
-publisher:
-  url: 'http://www.trendhunter.com'
-  name: TrendHunter.com
-  favicon: 'http://cdn.trendhunterstatic.com/favicon.ico'
-  domain: www.trendhunter.com
-description: >-
-  Conceptual Bike - Ion Lucin has simplified the design of a standard
-  two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a
-  limited use of lin...
-inLanguage: en
 inNav: false
-via: {}
-starred: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="http://cdn.trendhunterstatic.com/thumbs/conceptual-bike.jpeg" /></article>
+![All the star in the universe danced on the day you were born](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe84af9-bec8-4ddf-9f47-89abdaab10a0.jpg)
+
+> All the star in the universe danced on the day you were born
