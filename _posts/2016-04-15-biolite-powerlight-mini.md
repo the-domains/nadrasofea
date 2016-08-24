@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:17:45.784Z'
+datePublished: '2016-08-24T21:41:10.605Z'
 sourcePath: _posts/2016-04-15-biolite-powerlight-mini.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/biolite-powerlight-mini-portable-utility-light'
@@ -18,14 +18,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T21:17:44.864Z'
-title: BioLite PowerLight Mini
+dateModified: '2016-08-24T21:41:09.897Z'
+title: Memories
 app_links: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
+publisher: {}
 description: >-
   BioLite became leaders in the cooking and charging market thanks to their
   nifty wood burning CampStove (with portable grill) that generates electricity.
@@ -39,6 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Memories
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce5e1b35-6704-4a10-b733-a7512723a405.jpg)
 
 > One of the best ways to make yourself happy in the present is to recall happy times from the past. Photos are a great memory-prompt, and because we tend to take photos of happy occasions, they weight our memories to the good.
