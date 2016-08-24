@@ -1,16 +1,16 @@
-layout_spectrum: 0.8004805229138583
-typography_spectrum: 0.7814724596682936
+layout_spectrum: 0.6685799108818173
+typography_spectrum: 0.7475449561607093
 color:
-  brandStrength: 0.009346530539914966
-  lightness: 0.5859696632251143
-  saturation: 0.005926140118390322
-  rhythmicContrast: 0.9062136125285178
+  brandStrength: 0.3902721153572202
+  lightness: 0.5716249372344464
+  saturation: 0.501723148394376
+  rhythmicContrast: 0.970254490384832
   brandColors:
-    - '#FDFDFD'
-    - '#DA1A19'
-    - '#1DAEE7'
-    - '#4E1107'
-    - '#DB8C92'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: NadraSofea
 title: Pocket Full Of Sunshine
 description: the adventure begins
