@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:14:46.552Z'
+datePublished: '2016-08-24T21:17:45.784Z'
 sourcePath: _posts/2016-04-15-biolite-powerlight-mini.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/biolite-powerlight-mini-portable-utility-light'
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T21:14:45.711Z'
+dateModified: '2016-08-24T21:17:44.864Z'
 title: BioLite PowerLight Mini
 app_links: []
 publisher:
@@ -39,4 +39,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb69b780-138a-4265-9c1a-9d9bcdb19bd5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce5e1b35-6704-4a10-b733-a7512723a405.jpg)
+
+> One of the best ways to make yourself happy in the present is to recall happy times from the past. Photos are a great memory-prompt, and because we tend to take photos of happy occasions, they weight our memories to the good.
