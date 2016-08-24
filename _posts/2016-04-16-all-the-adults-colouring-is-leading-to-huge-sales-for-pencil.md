@@ -1,44 +1,20 @@
 ---
-datePublished: '2016-08-24T20:50:19.730Z'
+datePublished: '2016-08-24T21:55:34.136Z'
+isBasedOnUrl: 'http://mashable.com/2016/04/10/colouring-trend/#_B.eXvr5Fgq5'
+author: []
+via: {}
+dateModified: '2016-08-24T21:55:33.410Z'
+title: ''
+id: 596c8b2e-8445-43bd-b355-433b3d1d8fb4
+publisher: {}
+description: ''
+starred: true
 sourcePath: >-
   _posts/2016-04-16-all-the-adults-colouring-is-leading-to-huge-sales-for-pencil.md
 inFeed: true
-isBasedOnUrl: 'http://mashable.com/2016/04/10/colouring-trend/#_B.eXvr5Fgq5'
-authors: []
 hasPage: false
-keywords:
-  - colouring
-  - pencils
-  - trend
-  - suppa
-  - faber-castell
-  - staedtler
-  - adults
-  - demand
-  - australia
-  - basford
-related: []
-author: []
-dateModified: '2016-08-24T20:50:18.646Z'
-title: All the adults colouring is leading to huge sales for pencil companies
-app_links: []
-publisher:
-  url: 'http://mashable.com'
-  name: Mashable
-  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
-  domain: mashable.com
-description: >-
-  SYDNEY, Australia - So many adults are spending their days colouring in the
-  lines, pencil companies are struggling to cope with the demand for coloured
-  pencils and felt tip pens. Staedtler , the German company which produces felt
-  tip pens and coloured pencils, has seen significant growth in Australia as
-  adults get obsessed with the mindful trend.
-inLanguage: en
 inNav: false
-via: {}
-starred: true
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>All the adults colouring is leading to huge sales for pencil companies</h1><p>SYDNEY, Australia - So many adults are spending their days colouring in the lines, pencil companies are struggling to cope with the demand for coloured pencils and felt tip pens. Staedtler , the German company which produces felt tip pens and coloured pencils, has seen significant growth in Australia as adults get obsessed with the mindful trend.</p><img src="http://rack.3.mshcdn.com/media/ZgkyMDE2LzA0LzExLzQ4LzBjNmE2NTZjYzQwLjRmOWNhLmpwZwpwCXRodW1iCTEyMDB4NjMwCmUJanBn/09a7191e/180/0c6a656cc4044ac691546a71e9672f0f.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd2cf87b-904f-4aeb-aa1d-7c8b68e51447.jpg)
