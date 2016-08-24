@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:44:01.477Z'
+datePublished: '2016-08-24T21:44:55.781Z'
 sourcePath: _posts/2016-04-15-biolite-powerlight-mini.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/biolite-powerlight-mini-portable-utility-light'
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T21:44:00.461Z'
+dateModified: '2016-08-24T21:44:54.872Z'
 title: Memories
 app_links: []
 publisher: {}
