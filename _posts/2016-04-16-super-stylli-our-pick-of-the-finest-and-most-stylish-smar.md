@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-24T21:13:43.229Z'
+datePublished: '2016-08-24T21:14:19.184Z'
+sourcePath: _posts/2016-04-16-super-stylli-our-pick-of-the-finest-and-most-stylish-smar.md
 isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/the-best-and-most-stylish-computer-pens'
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-24T21:13:42.292Z'
+dateModified: '2016-08-24T21:14:18.016Z'
 title: 'Super stylli: our pick of the finest (and most stylish) smart-pens.'
 id: 3efec051-d463-4d68-b931-ff242188f361
 publisher:
@@ -19,7 +20,6 @@ description: >-
   touchscreen has sparked fresh interest in stylish stylii. Silicon Valley's big
   players are now rolling out a new era of smart stationery.
 starred: false
-sourcePath: _posts/2016-04-16-super-stylli-our-pick-of-the-finest-and-most-stylish-smar.md
 inFeed: true
 hasPage: false
 inNav: false
