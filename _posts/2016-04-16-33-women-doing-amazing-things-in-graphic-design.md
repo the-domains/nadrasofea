@@ -1,46 +1,22 @@
 ---
-datePublished: '2016-08-24T20:50:19.722Z'
-sourcePath: _posts/2016-04-16-33-women-doing-amazing-things-in-graphic-design.md
-inFeed: true
+datePublished: '2016-08-24T21:09:40.099Z'
 isBasedOnUrl: 'https://designschool.canva.com/blog/women-graphic-designers/'
-hasPage: false
-keywords:
-  - design
-  - marta
-  - graphic
-  - hance
-  - creativity
-  - art
-  - proba
-  - scher
-  - veludo
-  - raewyn
-related: []
 author:
   - name: Rebecca Gross
     url: 'https://designschool.canva.com/blog/author/rebecca/'
     avatar: {}
-dateModified: '2016-08-24T20:50:18.778Z'
-title: 33 Women Doing Amazing Things in Graphic Design
-app_links: []
-publisher:
-  url: 'https://designschool.canva.com'
-  name: Design School
-  favicon: 'https://designschool.canva.com/wp-content/themes/canva/img/icons/favicon.ico'
-  domain: designschool.canva.com
-description: >-
-  These talented women have unleashed their creativity and skills on the world
-  of graphic design. Paula Scher is an American graphic designer, illustrator,
-  and educator, and the first female Principal at . She started experimenting
-  with typography in the early 1980s and looked to historic design sources such
-  as Russian Constructivism, obscure and little-used typefaces, and her
-  seemingly unlimited imagination.
-inLanguage: en
-inNav: false
 via: {}
+dateModified: '2016-08-24T21:09:39.332Z'
+title: ''
+id: c0b85ff9-53de-4aa7-b1d8-5ced1bb807c9
+publisher: {}
+description: ''
 starred: false
-_context: 'http://schema.org'
+sourcePath: _posts/2016-04-16-33-women-doing-amazing-things-in-graphic-design.md
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 
 ---
-<article style=""><h1>33 Women Doing Amazing Things in Graphic Design</h1><p>These talented women have unleashed their creativity and skills on the world of graphic design. Paula Scher is an American graphic designer, illustrator, and educator, and the first female Principal at . She started experimenting with typography in the early 1980s and looked to historic design sources such as Russian Constructivism, obscure and little-used typefaces, and her seemingly unlimited imagination.</p><img src="https://designschool.canva.com/wp-content/uploads/sites/2/2016/02/03.-Jing-Zhang.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8c85ed9-ed38-47c4-9be6-295fde70312c.png)
