@@ -1,28 +1,13 @@
 ---
-datePublished: '2016-08-24T20:50:19.728Z'
-sourcePath: _posts/2016-04-16-super-stylli-our-pick-of-the-finest-and-most-stylish-smar.md
-inFeed: true
+datePublished: '2016-08-24T21:13:43.229Z'
 isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/the-best-and-most-stylish-computer-pens'
-authors: []
-hasPage: false
-keywords:
-  - devices
-  - stylish
-  - touchscreen
-  - designer
-  - high-end
-  - folio
-  - stylii
-  - touchpads
-  - wacom
-  - stylograph
-related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-24T20:50:18.975Z'
+via: {}
+dateModified: '2016-08-24T21:13:42.292Z'
 title: 'Super stylli: our pick of the finest (and most stylish) smart-pens.'
-app_links: []
+id: 3efec051-d463-4d68-b931-ff242188f361
 publisher:
   name: Wallpaper*
   domain: www.wallpaper.com
@@ -33,12 +18,12 @@ description: >-
   designers and CAD operators remain devoted to the device, the advent of the
   touchscreen has sparked fresh interest in stylish stylii. Silicon Valley's big
   players are now rolling out a new era of smart stationery.
-inLanguage: en
-inNav: false
-via: {}
 starred: false
-_context: 'http://schema.org'
+sourcePath: _posts/2016-04-16-super-stylli-our-pick-of-the-finest-and-most-stylish-smar.md
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 
 ---
-<article style=""><h1>Super stylli: our pick of the finest (and most stylish) smart-pens.</h1><p>Before touchpads, the stylus was at the cutting edge of data entry. And while designers and CAD operators remain devoted to the device, the advent of the touchscreen has sparked fresh interest in stylish stylii. Silicon Valley's big players are now rolling out a new era of smart stationery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8ee90cdb71d0172520dfe163b9d60343600194.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/465dba71-9067-4035-92dc-ebf13995d6e5.png)
